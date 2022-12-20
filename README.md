@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rafael
 #### I'm a full stack developer in training         
 
-I am an Systems analysis and development student, enthusiast for programming and learning, always seeking more and more knowledge and practice  :orange_book:
+I am an Systems analysis and development, enthusiast for programming and learning, always seeking more and more knowledge and practice  :orange_book:
 
 ![](https://komarev.com/ghpvc/?username=RafaelLisboa)
 
